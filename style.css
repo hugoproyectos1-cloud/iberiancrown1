@@ -300,6 +300,16 @@ nav.scrolled .nav-links a {
     margin-bottom: 7rem;
 }
 
+.section-header span {
+    color: var(--primary);
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 700;
+    font-size: 0.8rem;
+    display: block;
+    margin-bottom: 1rem;
+}
+
 .section-header h2 {
     font-size: 4rem;
     margin-bottom: 1.5rem;
